@@ -22,7 +22,7 @@ Une fois que vous avez installé les dépendances, vous pouvez exécuter le gest
 
 ```bash
 
-python MDP_PYTHON2.py
+python PASSWD_KEEPER.py
 ```
 
 Suivez les instructions à l'écran pour ajouter, gérer et afficher vos mots de passe enregistrés.
